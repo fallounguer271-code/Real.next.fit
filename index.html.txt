@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>real_next_drip</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>real_next_drip</h1>
+  <a href="cart.html">Carrello</a>
+</header>
+
+<section class="hero">
+  <h2>Next level streetwear</h2>
+  <p>Vestiti e scarpe essenziali</p>
+</section>
+
+<section class="products">
+  <div class="product">
+    <h3>Felpa Blu</h3>
+    <p>49 €</p>
+    <button onclick="addToCart('Felpa Blu', 49)">Aggiungi</button>
+  </div>
+
+  <div class="product">
+    <h3>Sneakers</h3>
+    <p>89 €</p>
+    <button onclick="addToCart('Sneakers', 89)">Aggiungi</button>
+  </div>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>real_next_drip</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>real_next_drip</h1>
+  <a href="cart.html">Carrello</a>
+</header>
+
+<section class="hero">
+  <h2>Next level streetwear</h2>
+  <p>Vestiti e scarpe essenziali</p>
+</section>
+
+<section class="products">
+  <div class="product">
+    <h3>Felpa Blu</h3>
+    <p>49 €</p>
+    <button onclick="addToCart('Felpa Blu', 49)">Aggiungi</button>
+  </div>
+
+  <div class="product">
+    <h3>Sneakers</h3>
+    <p>89 €</p>
+    <button onclick="addToCart('Sneakers', 89)">Aggiungi</button>
+  </div>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>

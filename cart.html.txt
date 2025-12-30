@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Carrello</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Carrello</h2>
+<ul id="cart"></ul>
+
+<button onclick="checkout()">Paga con carta</button>
+
+<script src="script.js"></script>
+</body>
+</html>
